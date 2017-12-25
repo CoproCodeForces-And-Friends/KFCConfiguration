@@ -1,0 +1,10 @@
+D:\Projects\KFC\KFCConfigurationService\KFCConfigurationService\bin\Debug\netcoreapp2.0\KFCConfigurationService.deps.json
+D:\Projects\KFC\KFCConfigurationService\KFCConfigurationService\bin\Debug\netcoreapp2.0\KFCConfigurationService.runtimeconfig.json
+D:\Projects\KFC\KFCConfigurationService\KFCConfigurationService\bin\Debug\netcoreapp2.0\KFCConfigurationService.runtimeconfig.dev.json
+D:\Projects\KFC\KFCConfigurationService\KFCConfigurationService\bin\Debug\netcoreapp2.0\KFCConfigurationService.dll
+D:\Projects\KFC\KFCConfigurationService\KFCConfigurationService\bin\Debug\netcoreapp2.0\KFCConfigurationService.pdb
+D:\Projects\KFC\KFCConfigurationService\KFCConfigurationService\obj\Debug\netcoreapp2.0\KFCConfigurationService.csproj.CoreCompileInputs.cache
+D:\Projects\KFC\KFCConfigurationService\KFCConfigurationService\obj\Debug\netcoreapp2.0\KFCConfigurationService.AssemblyInfoInputs.cache
+D:\Projects\KFC\KFCConfigurationService\KFCConfigurationService\obj\Debug\netcoreapp2.0\KFCConfigurationService.AssemblyInfo.cs
+D:\Projects\KFC\KFCConfigurationService\KFCConfigurationService\obj\Debug\netcoreapp2.0\KFCConfigurationService.dll
+D:\Projects\KFC\KFCConfigurationService\KFCConfigurationService\obj\Debug\netcoreapp2.0\KFCConfigurationService.pdb

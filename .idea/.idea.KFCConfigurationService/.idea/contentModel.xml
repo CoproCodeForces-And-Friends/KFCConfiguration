@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\evilk\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_KFCConfigurationService.-1099976650.00" t="ExcludeRecursive" />
+    <e p="D:\Projects\KFC\KFCConfigurationService" t="IncludeFlat">
+      <e p="KFCConfigurationService" t="IncludeRecursive">
+        <e p="API.cs" t="Include" />
+        <e p="AppSettings.cs" t="Include" />
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="ConfigurationController.cs" t="Include" />
+        </e>
+        <e p="KFCConfigurationService.csproj" t="IncludeRecursive" />
+        <e p="Models" t="Include">
+          <e p="ConfigurationModel.cs" t="Include" />
+          <e p="WebHookEventType.cs" t="Include" />
+          <e p="WebHookModel.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="KFCConfigurationService.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Services" t="Include">
+          <e p="JiraConfigurationService.cs" t="Include" />
+          <e p="TrelloConfigurationService.cs" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="wwwroot" t="Include" />
+      </e>
+      <e p="KFCConfigurationService.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

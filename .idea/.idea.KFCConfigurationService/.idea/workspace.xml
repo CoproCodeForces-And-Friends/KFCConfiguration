@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b76f9b3-efad-4702-bcc9-21efde2e8263" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="ConfigurationController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/KFCConfigurationService/Controllers/ConfigurationController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="30" column="13" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+              <folding>
+                <marker date="1514174310468" expanded="true" signature="6:139" ph="..." />
+                <marker date="1514174310468" expanded="true" signature="186:1150" ph="{...}" />
+                <marker date="1514174310468" expanded="true" signature="242:1148" ph="{...}" />
+                <marker date="1514174310468" expanded="true" signature="540:668" ph="{...}" />
+                <marker date="1514174310468" expanded="true" signature="779:1142" ph="{...}" />
+                <marker date="1514174310468" expanded="true" signature="828:1132" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JiraConfigurationService.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/KFCConfigurationService/Services/JiraConfigurationService.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="31" column="19" lean-forward="false" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+              <folding>
+                <marker date="1514130264976" expanded="true" signature="6:239" ph="..." />
+                <marker date="1514130264976" expanded="true" signature="283:1177" ph="{...}" />
+                <marker date="1514130264976" expanded="true" signature="332:395" ph="{...}" />
+                <marker date="1514130264976" expanded="true" signature="469:1175" ph="{...}" />
+                <marker date="1514130264976" expanded="true" signature="663:817" ph="{...}" />
+                <marker date="1514130264976" expanded="true" signature="889:1169" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JsonConvert.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D1EDC9EF-2B65-45BF-ACA5-143DD43A36DE/fa/cf819072/JsonConvert.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="API.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/KFCConfigurationService/API.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+              <folding>
+                <marker date="1514177139374" expanded="true" signature="33:526" ph="{...}" />
+                <marker date="1514177139374" expanded="true" signature="63:524" ph="{...}" />
+                <marker date="1514177139374" expanded="true" signature="115:292" ph="{...}" />
+                <marker date="1514177139374" expanded="true" signature="188:282" ph="{...}" />
+                <marker date="1514177139374" expanded="true" signature="341:518" ph="{...}" />
+                <marker date="1514177139374" expanded="true" signature="414:508" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AppSettings.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/KFCConfigurationService/AppSettings.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="51" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="51" />
+              <folding>
+                <marker date="1514129861011" expanded="true" signature="33:208" ph="{...}" />
+                <marker date="1514129861011" expanded="true" signature="64:206" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="appsettings.Development.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/KFCConfigurationService/appsettings.Development.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="appsettings.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/KFCConfigurationService/appsettings.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="58" lean-forward="false" selection-start-line="2" selection-start-column="58" selection-end-line="2" selection-end-column="58" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WebHookModel.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/KFCConfigurationService/Models/WebHookModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="11" selection-end-column="53" />
+              <folding>
+                <marker date="1514174166398" expanded="true" signature="40:473" ph="{...}" />
+                <marker date="1514174166398" expanded="true" signature="72:471" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Startup.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/KFCConfigurationService/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="29" column="20" lean-forward="false" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+              <folding>
+                <marker date="1514174796059" expanded="false" signature="6:370" ph="..." />
+                <marker date="1514174796059" expanded="true" signature="405:1428" ph="{...}" />
+                <marker date="1514174796059" expanded="true" signature="432:1426" ph="{...}" />
+                <marker date="1514174796059" expanded="true" signature="491:554" ph="{...}" />
+                <marker date="1514174796059" expanded="true" signature="777:1071" ph="{...}" />
+                <marker date="1514174796059" expanded="true" signature="1259:1420" ph="{...}" />
+                <marker date="1514174796059" expanded="true" signature="1306:1383" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WebHookEventType.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/KFCConfigurationService/Models/WebHookEventType.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+              <folding>
+                <marker date="1514129588169" expanded="true" signature="40:132" ph="{...}" />
+                <marker date="1514129588169" expanded="true" signature="75:130" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/KFCConfigurationService/Controllers/ConfigurationController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KFCConfigurationService/Services/JiraConfigurationService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KFCConfigurationService/Services/TrelloConfigurationService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D1EDC9EF-2B65-45BF-ACA5-143DD43A36DE/fa/cf819072/JsonConvert.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/KFCConfigurationService/Models/WebHookModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KFCConfigurationService/Models/WebHookEventType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KFCConfigurationService/AppSettings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KFCConfigurationService/API.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KFCConfigurationService/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KFCConfigurationService/Models/ConfigurationModel.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/KFCConfigurationService/Models/WebHookSettings.cs" />
+        <option value="$PROJECT_DIR$/KFCConfigurationService/Models/WebHookEventType.cs" />
+        <option value="$PROJECT_DIR$/KFCConfigurationService/AppSettings.cs" />
+        <option value="$PROJECT_DIR$/KFCConfigurationService/Services/TrelloConfigurationService.cs" />
+        <option value="$PROJECT_DIR$/KFCConfigurationService/Services/JiraConfigurationService.cs" />
+        <option value="$PROJECT_DIR$/KFCConfigurationService/Models/ConfigurationModel.cs" />
+        <option value="$PROJECT_DIR$/KFCConfigurationService/Models/WebHookModel.cs" />
+        <option value="$PROJECT_DIR$/KFCConfigurationService/Controllers/ConfigurationController.cs" />
+        <option value="$PROJECT_DIR$/KFCConfigurationService/Startup.cs" />
+        <option value="$PROJECT_DIR$/KFCConfigurationService/appsettings.Development.json" />
+        <option value="$PROJECT_DIR$/KFCConfigurationService/appsettings.json" />
+        <option value="$PROJECT_DIR$/KFCConfigurationService/API.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="KFCConfigurationService (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="KFCConfigurationService (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="KFCConfigurationService" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="KFCConfigurationService (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="KFCConfigurationService" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Controllers" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="KFCConfigurationService (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="KFCConfigurationService" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Models" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="KFCConfigurationService (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="KFCConfigurationService" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Services" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/KFCConfigurationService/bin/Debug/netcoreapp2.0/KFCConfigurationService.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/KFCConfigurationService" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5100" />
+      </envs>
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/KFCConfigurationService/KFCConfigurationService.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+      <browser url="http://localhost:5000" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b76f9b3-efad-4702-bcc9-21efde2e8263" name="Default" comment="" />
+      <created>1514127734198</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1514127734198</updated>
+      <workItem from="1514127737326" duration="14339000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14339000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="10" y="20" width="1346" height="688" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25427684" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39855072" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/KFCConfigurationService/Controllers/ConfigurationController.cs</url>
+          <line>22</line>
+          <properties documentPath="$PROJECT_DIR$/KFCConfigurationService/Controllers/ConfigurationController.cs">
+            <startOffsets>
+              <startOffset value="802" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="828" />
+            </endOffsets>
+          </properties>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/KFCConfigurationService/Controllers/ConfigurationController.cs</url>
+          <line>31</line>
+          <properties documentPath="$PROJECT_DIR$/KFCConfigurationService/Controllers/ConfigurationController.cs">
+            <startOffsets>
+              <startOffset value="1141" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="1142" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="setValue">
+      <expression>
+        <expression-string>&quot;http://localhost:5001/api/Configuration/CreateHook&quot;</expression-string>
+        <language-id>C#</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>&quot;http://localhost:5001/api/configuration/createhook</expression-string>
+        <language-id>C#</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/KFCConfigurationService/Services/TrelloConfigurationService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="50" lean-forward="false" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
+          <folding>
+            <marker date="1514130604988" expanded="true" signature="6:168" ph="..." />
+            <marker date="1514130604988" expanded="true" signature="212:1120" ph="{...}" />
+            <marker date="1514130604988" expanded="true" signature="263:326" ph="{...}" />
+            <marker date="1514130604988" expanded="true" signature="403:1118" ph="{...}" />
+            <marker date="1514130604988" expanded="true" signature="601:756" ph="{...}" />
+            <marker date="1514130604988" expanded="true" signature="828:1112" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KFCConfigurationService/Models/ConfigurationModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <folding>
+            <marker date="1514174167145" expanded="true" signature="40:196" ph="{...}" />
+            <marker date="1514174167145" expanded="true" signature="78:194" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KFCConfigurationService/Models/WebHookEventType.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <marker date="1514129588169" expanded="true" signature="40:132" ph="{...}" />
+            <marker date="1514129588169" expanded="true" signature="75:130" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KFCConfigurationService/Models/WebHookModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="11" selection-end-column="53" />
+          <folding>
+            <marker date="1514174166398" expanded="true" signature="40:473" ph="{...}" />
+            <marker date="1514174166398" expanded="true" signature="72:471" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KFCConfigurationService/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="29" column="20" lean-forward="false" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+          <folding>
+            <marker date="1514174796059" expanded="false" signature="6:370" ph="..." />
+            <marker date="1514174796059" expanded="true" signature="405:1428" ph="{...}" />
+            <marker date="1514174796059" expanded="true" signature="432:1426" ph="{...}" />
+            <marker date="1514174796059" expanded="true" signature="491:554" ph="{...}" />
+            <marker date="1514174796059" expanded="true" signature="777:1071" ph="{...}" />
+            <marker date="1514174796059" expanded="true" signature="1259:1420" ph="{...}" />
+            <marker date="1514174796059" expanded="true" signature="1306:1383" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KFCConfigurationService/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="58" lean-forward="false" selection-start-line="2" selection-start-column="58" selection-end-line="2" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KFCConfigurationService/AppSettings.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="51" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="51" />
+          <folding>
+            <marker date="1514129861011" expanded="true" signature="33:208" ph="{...}" />
+            <marker date="1514129861011" expanded="true" signature="64:206" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D1EDC9EF-2B65-45BF-ACA5-143DD43A36DE/fa/cf819072/JsonConvert.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KFCConfigurationService/API.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+          <folding>
+            <marker date="1514177139374" expanded="true" signature="33:526" ph="{...}" />
+            <marker date="1514177139374" expanded="true" signature="63:524" ph="{...}" />
+            <marker date="1514177139374" expanded="true" signature="115:292" ph="{...}" />
+            <marker date="1514177139374" expanded="true" signature="188:282" ph="{...}" />
+            <marker date="1514177139374" expanded="true" signature="341:518" ph="{...}" />
+            <marker date="1514177139374" expanded="true" signature="414:508" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KFCConfigurationService/Services/JiraConfigurationService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="31" column="19" lean-forward="false" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+          <folding>
+            <marker date="1514130264976" expanded="true" signature="6:239" ph="..." />
+            <marker date="1514130264976" expanded="true" signature="283:1177" ph="{...}" />
+            <marker date="1514130264976" expanded="true" signature="332:395" ph="{...}" />
+            <marker date="1514130264976" expanded="true" signature="469:1175" ph="{...}" />
+            <marker date="1514130264976" expanded="true" signature="663:817" ph="{...}" />
+            <marker date="1514130264976" expanded="true" signature="889:1169" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KFCConfigurationService/Controllers/ConfigurationController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="30" column="13" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+          <folding>
+            <marker date="1514174310468" expanded="true" signature="6:139" ph="..." />
+            <marker date="1514174310468" expanded="true" signature="186:1150" ph="{...}" />
+            <marker date="1514174310468" expanded="true" signature="242:1148" ph="{...}" />
+            <marker date="1514174310468" expanded="true" signature="540:668" ph="{...}" />
+            <marker date="1514174310468" expanded="true" signature="779:1142" ph="{...}" />
+            <marker date="1514174310468" expanded="true" signature="828:1132" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KFCConfigurationService/appsettings.Development.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
